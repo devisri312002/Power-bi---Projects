@@ -16,14 +16,43 @@ Welcome to my Power BI Portfolio Repository. This collection highlights the dash
 
 # [Project 1: Professional Sales Dashboard](Sales_Performance_Dashboard)  
 
-![Professional Sales Dashboard Demo]
+![Professional Sales Dashboard Demo](https://github.com/devisri312002/Power-bi---Projects/blob/main/Sales%20dashboard.png)
 
+This professional Power BI Sales Dashboard transforms raw sales data into clear, actionable business insights.
 
+Designed for business owners and decision-makers, this dashboard helps track revenue performance, monitor growth trends, and analyze sales efficiency across multiple dimensions.
 
+## 🚀 Dashboard Highlights
+- ✔ Sales KPIs (Total Sales, Orders, Average Order Value)
+- ✔ Sales Trend Analysis Over Time
+- ✔ Region & Channel Performance Breakdown
+- ✔ Product Category Insights
+- ✔ Sales Representative Performance
+- ✔ Interactive Filters & Drill-Down Capabilities
 
+## 💼 Business Value
+This dashboard enables organizations to:
+- Identify high-performing regions and products
+- Track sales growth trends
+- Monitor team performance
+- Make data-driven strategic decisions
 
+## 🛠 Tools Used
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Modeling
 
+## 🚀 Why Choose This Solution?
 
+This dashboard is designed not just for visualization — but for business impact.  
+It combines strong data modeling with clean design to ensure clarity, usability, and decision-making power.
+
+---
+
+# [Project 2: HR Analytics Dashboard](Google_Analytics_Dashboard)  
+
+![HR Analytics Dashboard Demo]()  
 
 
 
