@@ -50,11 +50,88 @@ It combines strong data modeling with clean design to ensure clarity, usability,
 
 ---
 
-# [Project 2: HR Analytics Dashboard](Google_Analytics_Dashboard)  
+# [Project 2: HR Analytics Dashboard](HR_Analytics_Dashboard)  
 
-![HR Analytics Dashboard Demo]()  
+![HR Analytics Dashboard Demo](https://github.com/devisri312002/Power-bi---Projects/blob/main/HR%20dashboard.png)  
+
+The dashboard helps HR teams and management monitor compensation trends, workforce composition, and experience-based salary insights to support strategic decision-making.
+
+### 🔍 Key Highlights
+
+- Total Salary, Average Age, and Total Employees KPIs
+- Salary Distribution by Job Title
+- Salary Analysis by Education Qualification
+- Gender-Based Salary Comparison
+- Employee-Level Salary Breakdown
+- Experience vs Salary Relationship
+- Year-wise Salary & Experience Trends
+
+### 💼 Business Impact
+
+- Identify salary distribution patterns across job roles
+- Analyze pay equity across gender and education levels
+- Monitor workforce demographics
+- Support compensation planning and HR strategy
+- Improve data-driven HR decision-making
+
+If you want, I can also give:
+
+🔥 Shorter version (very minimal)
+
+💼 More technical version (for job interviews)
+
+🚀 Freelance-client focused version (to attract HR analytics projects)
+
+Tell me which one you want.
+
++++
+
+Got it 😄 You want a stronger / upgraded (+++) version — more powerful, more premium.
+
+Here’s an enhanced Project Overview section for your HR Dashboard:
+
+## 📊 Project Overview
+
+This HR Analytics Dashboard provides a data-driven overview of employee workforce metrics, compensation structure, and organizational trends.
+
+Built using Power BI, the dashboard enables HR managers and leadership teams to analyze salary distribution, workforce demographics, and experience-based compensation patterns in a single interactive report.
+
+---
+
+### 🔎 Dashboard Capabilities
+
+- Executive KPIs: Total Salary, Average Age, Total Employees  
+- Salary Analysis by Job Title and Department  
+- Education Qualification vs Compensation Insights  
+- Gender-Based Salary Distribution  
+- Experience vs Salary Correlation Analysis  
+- Year-wise Salary & Workforce Trends  
+- Employee-Level Detailed Salary Breakdown  
+
+---
+
+### 🎯 Strategic Value
+
+- Detect compensation gaps and pay equity patterns  
+- Understand workforce structure and demographic trends  
+- Support salary benchmarking and budgeting decisions  
+- Identify high-cost roles and workforce distribution  
+- Enable data-backed HR and leadership decisions  
+
+---
+
+### 🛠 Skills Demonstrated
+
+- HR Data Modeling & Structuring  
+- Advanced DAX Measures  
+- KPI Development & Business Metrics  
+- Interactive Filtering & Drill-Down Analysis  
+- Professional Dashboard UI/UX Design  
 
 
+# [Project 4: Healthcare Dashboard](Healthcare_Dashboard)  
+
+![Healthcare Dashboard Demo]()  
 
 
 
