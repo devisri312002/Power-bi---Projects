@@ -16,7 +16,7 @@ Welcome to my Power BI Portfolio Repository. This collection highlights the dash
 
 # [Project 1: Professional Sales Dashboard](Sales_Performance_Dashboard)  
 
-![Professional Sales Dashboard Demo](https://github.com/devisri312002/Power-bi---Projects/blob/main/Sales%20dashboard.png)
+![Professional Sales Dashboard Demo]()
 
 This professional Power BI Sales Dashboard transforms raw sales data into clear, actionable business insights.
 
@@ -52,7 +52,7 @@ It combines strong data modeling with clean design to ensure clarity, usability,
 
 # [Project 2: HR Analytics Dashboard](HR_Analytics_Dashboard)  
 
-![HR Analytics Dashboard Demo](https://github.com/devisri312002/Power-bi---Projects/blob/main/HR%20dashboard.png)  
+![HR Analytics Dashboard Demo]()  
 
 The dashboard helps HR teams and management monitor compensation trends, workforce composition, and experience-based salary insights to support strategic decision-making.
 
