@@ -16,7 +16,8 @@ Welcome to my Power BI Portfolio Repository. This collection highlights the dash
 
 # [Project 1: Professional Sales Dashboard](Sales_Performance_Dashboard)  
 
-![Professional Sales Dashboard Demo](https://github.com/devisri312002/Power-bi---Projects/blob/main/Sales%20Dashboard.mp4)
+![Sales Dashboard Demo]
+(https://github.com/devisri312002/Power-bi---Projects/blob/main/Sales%20Dashboard.mp4)
 
 This professional Power BI Sales Dashboard transforms raw sales data into clear, actionable business insights.
 
