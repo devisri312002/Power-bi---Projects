@@ -114,7 +114,7 @@ This Healthcare Claims Analytics Dashboard provides a data-driven overview of he
 
 Built using Power BI, the dashboard enables healthcare analysts and insurance teams to track claim trends, analyze diagnosis patterns, and monitor healthcare service utilization through an interactive report.
 
-### 🔎 Dashboard Capabilities
+## 🔎 Dashboard Capabilities
 - Executive KPIs: Total Claim Amount, Total Claims, Total Providers, Total Patients
 - Claim Amount Analysis by Diagnosis Description
 - Procedure-wise Claims and Cost Analysis
