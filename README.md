@@ -93,6 +93,7 @@ Built using Power BI, the dashboard enables HR managers and leadership teams to 
 The dashboard helps healthcare administrators, insurance teams, and management monitor claim trends, provider performance, diagnosis distribution, and procedure costs to support data-driven healthcare decision-making
 
 ### 🔍 Key Highlights
+_________________________________________________________________________________________________________________________________________________________________
 - Total Claim Amount, Total Claims, Total Providers, and Total Patients KPIs
 - Claim Amount Distribution by Diagnosis
 - Procedure-wise Claims Analysis
