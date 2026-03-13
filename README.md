@@ -52,7 +52,7 @@ It combines strong data modeling with clean design to ensure clarity, usability,
 
 # [Project 2: HR Analytics Dashboard](HR_Analytics_Dashboard)  
 
-![HR Analytics Dashboard Demo]
+![HR Analytics Dashboard Demo](https://github.com/devisri312002/Power-bi---Projects/blob/main/HR%20Dashboard.png)
 
 The dashboard helps HR teams and management monitor compensation trends, workforce composition, and experience-based salary insights to support strategic decision-making.
 
