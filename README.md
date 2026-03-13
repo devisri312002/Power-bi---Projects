@@ -23,16 +23,16 @@ This professional Power BI Sales Dashboard transforms raw sales data into clear,
 Designed for business owners and decision-makers, this dashboard helps track revenue performance, monitor growth trends, and analyze sales efficiency across multiple dimensions.
 
 ## 🚀 Dashboard Highlights
-- ✔ Sales KPIs (Total Sales, Orders, Average Order Value)
+- ✔ Sales KPIs (Total Sales, Orders, Average Order Value, Products sold)
 - ✔ Sales Trend Analysis Over Time
 - ✔ Region & Channel Performance Breakdown
 - ✔ Product Category Insights
 - ✔ Sales Representative Performance
-- ✔ Interactive Filters & Drill-Down Capabilities
+- ✔ Interactive Table & Funnel Chart Capabilities
 
 ## 💼 Business Value
 This dashboard enables organizations to:
-- Identify high-performing regions and products
+- Identify high-performing regions, channel and products
 - Track sales growth trends
 - Monitor team performance
 - Make data-driven strategic decisions
@@ -42,11 +42,8 @@ This dashboard enables organizations to:
 - Power Query
 - DAX
 - Data Modeling
-
-## 🚀 Why Choose This Solution?
-
-This dashboard is designed not just for visualization — but for business impact.  
-It combines strong data modeling with clean design to ensure clarity, usability, and decision-making power.
+- KPI
+- Visualizations(Charts, Maps)
 
 ---
 
@@ -54,10 +51,9 @@ It combines strong data modeling with clean design to ensure clarity, usability,
 
 ![HR Analytics Dashboard Demo](https://github.com/devisri312002/Power-bi---Projects/blob/main/HR%20Dashboard.png)
 
-The dashboard helps HR teams and management monitor compensation trends, workforce composition, and experience-based salary insights to support strategic decision-making.
+The dashboard helps HR teams and management to monitor compensation trends, workforce composition, and experience-based salary insights to support strategic decision-making.
 
 ### 🔍 Key Highlights
-
 - Total Salary, Average Age, and Total Employees KPIs
 - Salary Distribution by Job Title
 - Salary Analysis by Education Qualification
@@ -67,7 +63,6 @@ The dashboard helps HR teams and management monitor compensation trends, workfor
 - Year-wise Salary & Experience Trends
 
 ### 💼 Business Impact
-
 - Identify salary distribution patterns across job roles
 - Analyze pay equity across gender and education levels
 - Monitor workforce demographics
@@ -75,36 +70,65 @@ The dashboard helps HR teams and management monitor compensation trends, workfor
 - Improve data-driven HR decision-making
 
 ## 📊 Project Overview
-
 This HR Analytics Dashboard provides a data-driven overview of employee workforce metrics, compensation structure, and organizational trends.
 
 Built using Power BI, the dashboard enables HR managers and leadership teams to analyze salary distribution, workforce demographics, and experience-based compensation patterns in a single interactive report.
 
----
-
 ### 🔎 Dashboard Capabilities
-
 - Executive KPIs: Total Salary, Average Age, Total Employees  
 - Salary Analysis by Job Title and Department  
 - Education Qualification vs Compensation Insights  
 - Gender-Based Salary Distribution  
 - Experience vs Salary Correlation Analysis  
 - Year-wise Salary & Workforce Trends  
-- Employee-Level Detailed Salary Breakdown  
+- Employee-Level Detailed Salary Breakdown
+- salary Breakdown based year
 
 ---
 
-
-
 # [Project 3: Healthcare Dashboard](Healthcare_Dashboard)  
 
-![Healthcare Dashboard Demo]()  
+![Healthcare Dashboard Demo](https://github.com/devisri312002/Power-bi---Projects/blob/main/Healthcare%20Dashboard.png)  
 
+The dashboard helps healthcare administrators, insurance teams, and management monitor claim trends, provider performance, diagnosis distribution, and procedure costs to support data-driven healthcare decision-making
 
+### 🔍 Key Highlights
+- Total Claim Amount, Total Claims, Total Providers, and Total Patients KPIs
+- Claim Amount Distribution by Diagnosis
+- Procedure-wise Claims Analysis
+- Provider-wise Claim Amount Comparison
+- Patient Age Group Analysis
+- Diagnosis Code Distribution
+- Detailed Claim-Level Data Table
+- Claim Amount Breakdown by Procedure Type
 
+### 💼 Business Impact
+- Identify high-cost diagnoses and procedures
+- Analyze provider performance based on claim amounts
+- Monitor patient demographics and healthcare utilization
+- Improve insurance claim monitoring and cost management
+- Enable data-driven decision-making in healthcare operations
 
+## 📊 Project Overview
+This Healthcare Claims Analytics Dashboard provides a data-driven overview of healthcare claims, procedures, providers, and patient demographics.
 
+Built using Power BI, the dashboard enables healthcare analysts and insurance teams to track claim trends, analyze diagnosis patterns, and monitor healthcare service utilization through an interactive report.
 
+### 🔎 Dashboard Capabilities
+- Executive KPIs: Total Claim Amount, Total Claims, Total Providers, Total Patients
+- Claim Amount Analysis by Diagnosis Description
+- Procedure-wise Claims and Cost Analysis
+- Provider-wise Claim Amount Distribution
+- Patient Age Group Analysis
+- Diagnosis Code Distribution Insights
+- Interactive Filters for Provider, Diagnosis, and Procedure
+- Claim-Level Detailed Data Table for deeper analysis
+
+## 🛠 Tools Used
+- Power BI
+- Data Visualization
+- Data Modeling
+- DAX Measures
 
 
 
