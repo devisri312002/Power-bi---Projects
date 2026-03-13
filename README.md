@@ -10,7 +10,7 @@
 
 ---
 
-Welcome to my Power BI Portfolio Repository. This collection highlights the dashboards and analytics projects I’ve built to demonstrate my ability to transform raw, complex data into clear, actionable insights. Each project reflects my expertise in business intelligence, dashboard design, and data storytelling. Whether it’s Healthcare, sales, HR, my goal is always the same: to create tools that help businesses make smarter, data-driven decisions.  
+Welcome to my Power BI Portfolio Repository. This collection highlights the dashboards and analytics projects I’ve built to demonstrate my ability to transform raw, complex data into clear, actionable insights. Each project reflects my expertise in business intelligence, dashboard design, and data storytelling. Whether it’s Healthcare, Sales, HR, my goal is always the same: to create tools that help businesses make smarter, data-driven decisions.  
 
 ---
 
