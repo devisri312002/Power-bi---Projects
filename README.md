@@ -53,7 +53,7 @@ This dashboard enables organizations to:
 
 The dashboard helps HR teams and management to monitor compensation trends, workforce composition, and experience-based salary insights to support strategic decision-making.
 
-### 🔍 Key Highlights
+## 🚀 Dashboard Highlights
 - Total Salary, Average Age, and Total Employees KPIs
 - Salary Distribution by Job Title
 - Salary Analysis by Education Qualification
@@ -62,7 +62,7 @@ The dashboard helps HR teams and management to monitor compensation trends, work
 - Experience vs Salary Relationship
 - Year-wise Salary & Experience Trends
 
-### 💼 Business Impact
+## 💼 Business Value
 - Identify salary distribution patterns across job roles
 - Analyze pay equity across gender and education levels
 - Monitor workforce demographics
@@ -92,7 +92,7 @@ Built using Power BI, the dashboard enables HR managers and leadership teams to 
 
 The dashboard helps healthcare administrators, insurance teams, and management monitor claim trends, provider performance, diagnosis distribution, and procedure costs to support data-driven healthcare decision-making
 
-### 🔍 Key Highlights
+## 🚀 Dashboard Highlights
 - Total Claim Amount, Total Claims, Total Providers, and Total Patients KPIs
 - Claim Amount Distribution by Diagnosis
 - Procedure-wise Claims Analysis
@@ -102,7 +102,7 @@ The dashboard helps healthcare administrators, insurance teams, and management m
 - Detailed Claim-Level Data Table
 - Claim Amount Breakdown by Procedure Type
 
-### 💼 Business Impact
+## 💼 Business Value
 - Identify high-cost diagnoses and procedures
 - Analyze provider performance based on claim amounts
 - Monitor patient demographics and healthcare utilization
