@@ -74,7 +74,7 @@ This HR Analytics Dashboard provides a data-driven overview of employee workforc
 
 Built using Power BI, the dashboard enables HR managers and leadership teams to analyze salary distribution, workforce demographics, and experience-based compensation patterns in a single interactive report.
 
-### 🔎 Dashboard Capabilities
+## 🔎 Dashboard Capabilities
 - Executive KPIs: Total Salary, Average Age, Total Employees  
 - Salary Analysis by Job Title and Department  
 - Education Qualification vs Compensation Insights  
