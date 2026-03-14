@@ -14,7 +14,7 @@ Welcome To My Power BI Portfolio Repository. This collection highlights the dash
 
 ---
 
-# [Project 1: Professional Sales Dashboard](Sales_Performance_Dashboard)  
+# [Project 1: Sales Dashboard](Sales_Performance_Dashboard)  
 
 ![Sales Dashboard Demo](https://github.com/devisri312002/Power-bi---Projects/blob/main/Sales%20Dashboard.png)
 
