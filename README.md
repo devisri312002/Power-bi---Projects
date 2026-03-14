@@ -123,8 +123,20 @@ This Healthcare Claims Analytics Dashboard provides a data-driven overview of he
 
 Built using Power BI, the dashboard enables healthcare analysts and insurance teams to track claim trends, analyze diagnosis patterns, and monitor healthcare service utilization through an interactive report.
 
+---
 
+## Contact Information
 
+If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at [devi2002srii@gmail.com]. or connect with me on LinkedIn at [Devisri](https://www.linkedin.com/in/devisri-s-a94833228/).
 
+Thank you for visiting my Power bi Portfolio! I hope you find my projects informative and insightful.
 
+## Author
+Devisri S
+Aspiring Power bi | Data Analyst | Tableau| Excel
+- <b>[LinkedIn](https://www.linkedin.com/in/devisri-s-a94833228/)</b>
+- <b>[Github](https://github.com/devisri312002))</b>
 
+## About me
+I am an aspiring Data Analyst skilled in Power bi, SQL, Excel, Tableau, Python . I enjoy analyzing data and building interactive dashboards to generate business insights.
+                                                                     
